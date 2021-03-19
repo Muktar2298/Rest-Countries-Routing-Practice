@@ -1,0 +1,22 @@
+.details-container {
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 3%;
+}
+.details-container img {
+  width: 500px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+
+button {
+  width: 200px;
+  background-color: #0a4c62;
+  color: white;
+  padding: 10px;
+  border: 1px solid #0a4c62;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
